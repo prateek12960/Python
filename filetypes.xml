@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="previous_output" type="PLAIN_TEXT" />
       <mapping pattern="current_input" type="PLAIN_TEXT" />
+      <mapping pattern="ua_call_driver_details" type="PLAIN_TEXT" />
       <mapping pattern="config_file" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
